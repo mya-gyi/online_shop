@@ -28,7 +28,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav ms-auto">
+                    <ul class="navbar-nav ms-auto mr-auto">
                         <li class="nav-item">
                             <a class="nav-link" href="#">
                                 <i class="fas fa-shopping-cart"></i> Cart
@@ -39,6 +39,13 @@
                                 <i class="fas fa-user"></i> Login
                             </a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('register') }}">
+                                <i class="fas fa-registered"></i> register
+                            </a>
+                        </li>
+
+
                     </ul>
                 </div>
             </div>
