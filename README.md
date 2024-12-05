@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# online_shop
-Laravel Online-shop website
-=======
 #online-shop
 
 Laravel-online-shop
@@ -11,4 +7,3 @@ Laravel-online-shop
 change database name to online-shop
 
 php artisan migrate
->>>>>>> master
