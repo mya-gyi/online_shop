@@ -58,7 +58,7 @@
     </main>
 
     <footer class="bg-light text-center py-3 mt-auto">
-        <p>&copy; {{ date('Y') }} Online Shop. All Rights Reserved.</p>
+        <p>&copy; {{ date('Y') }} Online Shop - <span class="text-success fw-bold">MHK</span> . All Rights Reserved.</p>
     </footer>
 
     <!-- Bootstrap JS Bundle -->
